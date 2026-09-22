@@ -428,6 +428,7 @@ struct _GLFWwndconfig
     struct {
         bool      keymenu;
         bool      showDefault;
+        bool      noRedirectionBitmap;
     } win32;
     struct {
         char      appId[256];
