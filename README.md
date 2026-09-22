@@ -121,6 +121,7 @@ information on what to include when reporting a bug.
 ## Changelog since 3.5
 
 - Added `GLFW_ANGLE_SURFACE_DIRECT_COMPOSITION` window hint for ANGLE on Windows (#2876)
+- Added `GLFW_WIN32_NO_REDIRECTION_BITMAP` window hint for Win32 window creation (#2904)
 
 
 ## Contact
@@ -137,4 +138,3 @@ request, please file it in the
 
 Finally, if you're interested in helping out with the development of GLFW or
 porting it to your favorite platform, join us on the forum or GitHub.
-
